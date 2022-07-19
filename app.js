@@ -26,7 +26,7 @@ yargs.command({
     },
     name:{
     describe:'Name of student',
-    demandOption: true ,
+    demandOption: false ,
     type:'string'
 },
    degree: {

@@ -2,6 +2,7 @@
   "dependencies": {
     "git": "^0.1.5",
     "node-git-server": "^1.0.0",
+    "request": "^2.88.2",
     "yargs": "^17.5.1"
   },
   "name": "students-app",
